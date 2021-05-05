@@ -1,0 +1,43 @@
+mh1{
+    color:azure;
+}
+* * {
+    border: solid;
+} *
+.header{
+    background-color: bisque;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+   margin: 5px;
+   display: flex;
+   justify-content: right;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.bodyimg{
+   
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+  
+    
+}
+.item{
+    position:relative;
+    display: flex;
+    justify-content:center;
+    
+
+}
+.header *{
+  
+    margin-bottom: 0px;
+
+
+}
